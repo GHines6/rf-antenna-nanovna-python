@@ -1,0 +1,3 @@
+measurement,best_frequency_mhz,best_s11_db,minimum_vswr,impedance_real_ohms,impedance_imag_ohms,vswr_lt_2_bandwidth_mhz
+antenna_v1_baseline_495MHz,495.000,-28.97,1.074,53.07,-2.01,42.500
+antenna_v2_farther_from_laptop,497.500,-20.07,1.220,42.03,4.49,45.000
