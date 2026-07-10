@@ -1,0 +1,9 @@
+NanoVNA Antenna Characterization Report
+--------------------------------------
+File: C:\Users\gfhin\OneDrive\Desktop\nanovna-antenna-characterizer\data\antenna_v2_farther_from_laptop.s1p
+Best match frequency: 497.500 MHz
+Best S11: -20.07 dB
+Minimum VSWR: 1.220
+Impedance at best match: 42.03 + j4.49 ohms
+VSWR < 2 range: 477.500 MHz to 522.500 MHz
+VSWR < 2 bandwidth: 45.000 MHz
